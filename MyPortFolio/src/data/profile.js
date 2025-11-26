@@ -1,5 +1,5 @@
 const ProfileData = {
-  img: require("../assets/Images/WhatsApp Image 2025-09-20 at 18.47.46_b78617eb.png"),
+  img: require("../assets/Images/vinothimg.jpg"),
   logo: require("../assets/Images/Name.png"),
   name: "VinothKumar",
   professions: ["Web Developer", "Software Developer", "Frontend Developer" ,"React Developer"],
